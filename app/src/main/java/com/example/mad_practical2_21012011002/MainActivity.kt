@@ -33,4 +33,24 @@ class MainActivity : AppCompatActivity(){
         showMassage("onresume method is called")
         
     }
+
+    override fun onRestart() {
+        super.onRestart()
+        showMassage("onRestart method is called");
+    }
+
+    override fun onPause() {
+        super.onPause()
+        showMassage("onPause method is called")
+    }
+
+    override fun onStop() {
+        super.onStop()
+        showMassage("onStop method is called")
+    }
+
+    override fun onDestroy() {
+        super.onDestroy()
+        showMassage("onDestroy method is called")
+    }
 }
