@@ -6,6 +6,7 @@
     android:layout_height="match_parent"
     android:id="@+id/myConstraintLayout"
     android:background="#FFFF00"
+    android:id="@+id/mainConstraint"
 
     tools:context=".MainActivity">
 
