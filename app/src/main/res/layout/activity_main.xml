@@ -4,19 +4,17 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:id="@+id/myConstraintLayout"
     android:background="#FFFF00"
-    android:id="@+id/mainConstraint"
-
+    android:id="@+id/myConstraintLayout"
     tools:context=".MainActivity">
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textColor="@android:color/holo_blue_bright"
+        android:textColor="@android:color/holo_purple"
+        android:textSize="25sp"
+        android:textStyle="italic|bold"
         android:text="Hello World!"
-        android:textSize="27sp"
-        android:textStyle="bold|italic"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
