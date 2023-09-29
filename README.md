@@ -1,6 +1,7 @@
 MAD_Practical-2_21012021011
 
-![image](https://github.com/Chintan0484/MAD_practical2_21012011002/assets/98694412/feb12333-f7d2-4d6a-a092-f8cfc0882bf7)
+![image](https://github.com/Chintan0484/MAD_practical2_21012011002/assets/98694412/6d3e4959-c189-4859-98b1-5881be45d3a4)
+
 
 ![image](https://github.com/Chintan0484/MAD_practical2_21012011002/assets/98694412/c40ba6e2-d854-419b-909b-531ebbb9e78b)
 
